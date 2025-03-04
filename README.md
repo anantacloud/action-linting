@@ -1,4 +1,4 @@
-![Maintainer](https://img.shields.io/badge/Maintained%20By-Anvaya%20Cloud-brightgreen) [![ActionLint GitHub Action Workflow](https://github.com/anvayacloud/action-linting/actions/workflows/main.yaml/badge.svg)](https://github.com/anvayacloud/action-linting/actions/workflows/main.yaml) 
+![Maintainer](https://img.shields.io/badge/Maintained%20By-Ananta%20Cloud-brightgreen) [![ActionLint GitHub Action Workflow](https://github.com/anvayacloud/action-linting/actions/workflows/main.yaml/badge.svg)](https://github.com/anvayacloud/action-linting/actions/workflows/main.yaml) 
 
 # Introduction
 
